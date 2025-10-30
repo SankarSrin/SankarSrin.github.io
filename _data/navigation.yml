@@ -1,7 +1,13 @@
-- name: About
+-- name: About
   link: /
-  anchor: '#'
+  anchor: '#bio'
   highlight: true
+
+- name: Experience
+  link: /
+  anchor: '#experience'
+  highlight: false
+
 - name: Publications
   link: /
   anchor: '#publications'
