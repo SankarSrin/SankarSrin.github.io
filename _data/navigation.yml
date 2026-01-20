@@ -3,13 +3,20 @@
   anchor: '#bio'
   highlight: true
 
+- name: Education
+  link: /education/
+  anchor: ''
+  highlight: false
+
 - name: Experience
   link: /
   anchor: '#experience'
   highlight: false
 
 - name: Publications
-  link: /
-  anchor: '#publications'
+  link: /publications/
+  anchor: ''
   highlight: false
+
+
 
