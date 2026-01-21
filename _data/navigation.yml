@@ -8,10 +8,7 @@
   anchor: ''
   highlight: false
 
-- name: Experience
-  link: /
-  anchor: '#experience'
-  highlight: false
+
 
 - name: Publications
   link: /publications/
